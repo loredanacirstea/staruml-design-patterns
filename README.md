@@ -8,7 +8,7 @@ Everyone is welcome to improve on this and provide implementation in various pro
 
 * [Creational Patterns](#creational-patterns)
 	* [Abstract Factory](#abstract-factory)
-	* [Builder](#buider)
+	* [Builder](#builder)
 	* [Factory Method](#factory-method)
 	* [Prototype](#prototype)
 	* [Singleton](#singleton)
@@ -18,7 +18,7 @@ Everyone is welcome to improve on this and provide implementation in various pro
 	* [Bridge](#bridge)
 	* [Composite](#composite)
 	* [Decorator](#decorator)
-	* [Façade](#façade)
+	* [Façade](#fa%C3%A7ade)
 	* [Flyweight](#flyweight)
 	* [Proxy](#proxy)
 
@@ -32,7 +32,7 @@ Everyone is welcome to improve on this and provide implementation in various pro
 	* [Observer](#observer)
 	* [State](#state)
 	* [Strategy](#strategy)
-	* [Template Method](#emplate-method)
+	* [Template Method](#template-method)
 	* [Visitor](#visitor)
 
 
