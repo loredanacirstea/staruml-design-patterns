@@ -18,7 +18,7 @@ Everyone is welcome to improve on this and provide implementation in various pro
 	* [Bridge](#bridge)
 	* [Composite](#composite)
 	* [Decorator](#decorator)
-	* [Façade](#fa%C3%A7ade)
+	* [Façade](#façade)
 	* [Flyweight](#flyweight)
 	* [Proxy](#proxy)
 
