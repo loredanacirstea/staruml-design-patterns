@@ -63,9 +63,7 @@ Everyone is welcome to improve on this and provide implementation in various pro
 ## Structural Patterns
 ### Adapter
 
-![Adapter MultiInheritance](https://raw.githubusercontent.com/loredanacirstea/staruml-design-patterns/master/generated/Model/loretek/design_patterns/structural/adapter_multi_inherit/adapter.png)
-
-![Adapter no MultiInheritance](https://raw.githubusercontent.com/loredanacirstea/staruml-design-patterns/master/generated/Model/loretek/design_patterns/structural/adapter_simple/adapter.png)
+![Adapter MultiInheritance](https://raw.githubusercontent.com/loredanacirstea/staruml-design-patterns/master/generated/Model/loretek/design_patterns/structural/adapter/adapter.png)
 
 ### Bridge
 
